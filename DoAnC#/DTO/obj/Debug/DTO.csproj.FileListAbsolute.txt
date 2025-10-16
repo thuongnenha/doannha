@@ -1,0 +1,24 @@
+E:\DoAn\DoAnC#\DTO\bin\Debug\DTO.dll
+E:\DoAn\DoAnC#\DTO\bin\Debug\DTO.pdb
+E:\DoAn\DoAnC#\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\DoAn\DoAnC#\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\DoAn\DoAnC#\DTO\obj\Debug\DTO.dll
+E:\DoAn\DoAnC#\DTO\obj\Debug\DTO.pdb
+E:\DoAn_HTTT\DoAn\DoAnC#\DTO\bin\Debug\DTO.dll
+E:\DoAn_HTTT\DoAn\DoAnC#\DTO\bin\Debug\DTO.pdb
+E:\DoAn_HTTT\DoAn\DoAnC#\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\DoAn_HTTT\DoAn\DoAnC#\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\DoAn_HTTT\DoAn\DoAnC#\DTO\obj\Debug\DTO.dll
+E:\DoAn_HTTT\DoAn\DoAnC#\DTO\obj\Debug\DTO.pdb
+D:\BT C#\DoAnC#\DTO\bin\Debug\DTO.dll
+D:\BT C#\DoAnC#\DTO\bin\Debug\DTO.pdb
+D:\BT C#\DoAnC#\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\BT C#\DoAnC#\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\BT C#\DoAnC#\DTO\obj\Debug\DTO.dll
+D:\BT C#\DoAnC#\DTO\obj\Debug\DTO.pdb
+E:\TriC#\DoAnC#\DTO\bin\Debug\DTO.dll
+E:\TriC#\DoAnC#\DTO\bin\Debug\DTO.pdb
+E:\TriC#\DoAnC#\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\TriC#\DoAnC#\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\TriC#\DoAnC#\DTO\obj\Debug\DTO.dll
+E:\TriC#\DoAnC#\DTO\obj\Debug\DTO.pdb

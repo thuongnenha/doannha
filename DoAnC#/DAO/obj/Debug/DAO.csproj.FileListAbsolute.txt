@@ -1,0 +1,36 @@
+E:\DoAn\DoAnC#\DAO\bin\Debug\DAO.dll
+E:\DoAn\DoAnC#\DAO\bin\Debug\DAO.pdb
+E:\DoAn\DoAnC#\DAO\bin\Debug\DTO.dll
+E:\DoAn\DoAnC#\DAO\bin\Debug\DTO.pdb
+E:\DoAn\DoAnC#\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+E:\DoAn\DoAnC#\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\DoAn\DoAnC#\DAO\obj\Debug\DAO.csproj.Up2Date
+E:\DoAn\DoAnC#\DAO\obj\Debug\DAO.dll
+E:\DoAn\DoAnC#\DAO\obj\Debug\DAO.pdb
+E:\DoAn_HTTT\DoAn\DoAnC#\DAO\bin\Debug\DAO.dll
+E:\DoAn_HTTT\DoAn\DoAnC#\DAO\bin\Debug\DAO.pdb
+E:\DoAn_HTTT\DoAn\DoAnC#\DAO\bin\Debug\DTO.dll
+E:\DoAn_HTTT\DoAn\DoAnC#\DAO\bin\Debug\DTO.pdb
+E:\DoAn_HTTT\DoAn\DoAnC#\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+E:\DoAn_HTTT\DoAn\DoAnC#\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\DoAn_HTTT\DoAn\DoAnC#\DAO\obj\Debug\DAO.csproj.Up2Date
+E:\DoAn_HTTT\DoAn\DoAnC#\DAO\obj\Debug\DAO.dll
+E:\DoAn_HTTT\DoAn\DoAnC#\DAO\obj\Debug\DAO.pdb
+D:\BT C#\DoAnC#\DAO\bin\Debug\DAO.dll
+D:\BT C#\DoAnC#\DAO\bin\Debug\DAO.pdb
+D:\BT C#\DoAnC#\DAO\bin\Debug\DTO.dll
+D:\BT C#\DoAnC#\DAO\bin\Debug\DTO.pdb
+D:\BT C#\DoAnC#\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+D:\BT C#\DoAnC#\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\BT C#\DoAnC#\DAO\obj\Debug\DAO.csproj.Up2Date
+D:\BT C#\DoAnC#\DAO\obj\Debug\DAO.dll
+D:\BT C#\DoAnC#\DAO\obj\Debug\DAO.pdb
+E:\TriC#\DoAnC#\DAO\bin\Debug\DAO.dll
+E:\TriC#\DoAnC#\DAO\bin\Debug\DAO.pdb
+E:\TriC#\DoAnC#\DAO\bin\Debug\DTO.dll
+E:\TriC#\DoAnC#\DAO\bin\Debug\DTO.pdb
+E:\TriC#\DoAnC#\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+E:\TriC#\DoAnC#\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\TriC#\DoAnC#\DAO\obj\Debug\DAO.csproj.Up2Date
+E:\TriC#\DoAnC#\DAO\obj\Debug\DAO.dll
+E:\TriC#\DoAnC#\DAO\obj\Debug\DAO.pdb

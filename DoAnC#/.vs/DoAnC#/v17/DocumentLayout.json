@@ -1,0 +1,553 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DoAnCFC#\\DoAnC#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89489811-D712-4813-AA3C-7A0F2038629A}|GUI\\GUI.csproj|e:\\doancfc#\\doanc#\\gui\\qldoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89489811-D712-4813-AA3C-7A0F2038629A}|GUI\\GUI.csproj|solutionrelative:gui\\qldoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89489811-D712-4813-AA3C-7A0F2038629A}|GUI\\GUI.csproj|E:\\DoAnCFC#\\DoAnC#\\gui\\qldoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89489811-D712-4813-AA3C-7A0F2038629A}|GUI\\GUI.csproj|solutionrelative:gui\\qldoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C14696E-A28D-4BE2-A74E-F5FD19952699}|DAO\\DAO.csproj|E:\\DoAnCFC#\\DoAnC#\\dao\\thongkedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C14696E-A28D-4BE2-A74E-F5FD19952699}|DAO\\DAO.csproj|solutionrelative:dao\\thongkedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049B9F23-2836-48C5-8732-E751CF12E6CB}|BUS\\BUS.csproj|E:\\DoAnCFC#\\DoAnC#\\bus\\thongkebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049B9F23-2836-48C5-8732-E751CF12E6CB}|BUS\\BUS.csproj|solutionrelative:bus\\thongkebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89489811-D712-4813-AA3C-7A0F2038629A}|GUI\\GUI.csproj|E:\\DoAnCFC#\\DoAnC#\\gui\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89489811-D712-4813-AA3C-7A0F2038629A}|GUI\\GUI.csproj|solutionrelative:gui\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89489811-D712-4813-AA3C-7A0F2038629A}|GUI\\GUI.csproj|E:\\DoAnCFC#\\DoAnC#\\gui\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89489811-D712-4813-AA3C-7A0F2038629A}|GUI\\GUI.csproj|solutionrelative:gui\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C14696E-A28D-4BE2-A74E-F5FD19952699}|DAO\\DAO.csproj|E:\\DoAnCFC#\\DoAnC#\\dao\\billdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C14696E-A28D-4BE2-A74E-F5FD19952699}|DAO\\DAO.csproj|solutionrelative:dao\\billdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89489811-D712-4813-AA3C-7A0F2038629A}|GUI\\GUI.csproj|E:\\DoAnCFC#\\DoAnC#\\gui\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89489811-D712-4813-AA3C-7A0F2038629A}|GUI\\GUI.csproj|solutionrelative:gui\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89489811-D712-4813-AA3C-7A0F2038629A}|GUI\\GUI.csproj|E:\\DoAnCFC#\\DoAnC#\\gui\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89489811-D712-4813-AA3C-7A0F2038629A}|GUI\\GUI.csproj|solutionrelative:gui\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89489811-D712-4813-AA3C-7A0F2038629A}|GUI\\GUI.csproj|E:\\DoAnCFC#\\DoAnC#\\gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89489811-D712-4813-AA3C-7A0F2038629A}|GUI\\GUI.csproj|solutionrelative:gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89489811-D712-4813-AA3C-7A0F2038629A}|GUI\\GUI.csproj|E:\\DoAnCFC#\\DoAnC#\\gui\\qlbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89489811-D712-4813-AA3C-7A0F2038629A}|GUI\\GUI.csproj|solutionrelative:gui\\qlbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89489811-D712-4813-AA3C-7A0F2038629A}|GUI\\GUI.csproj|E:\\DoAnCFC#\\DoAnC#\\gui\\thongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89489811-D712-4813-AA3C-7A0F2038629A}|GUI\\GUI.csproj|solutionrelative:gui\\thongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89489811-D712-4813-AA3C-7A0F2038629A}|GUI\\GUI.csproj|E:\\DoAnCFC#\\DoAnC#\\gui\\thongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89489811-D712-4813-AA3C-7A0F2038629A}|GUI\\GUI.csproj|solutionrelative:gui\\thongtin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89489811-D712-4813-AA3C-7A0F2038629A}|GUI\\GUI.csproj|E:\\DoAnCFC#\\DoAnC#\\gui\\thetv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89489811-D712-4813-AA3C-7A0F2038629A}|GUI\\GUI.csproj|solutionrelative:gui\\thetv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89489811-D712-4813-AA3C-7A0F2038629A}|GUI\\GUI.csproj|E:\\DoAnCFC#\\DoAnC#\\gui\\storemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89489811-D712-4813-AA3C-7A0F2038629A}|GUI\\GUI.csproj|solutionrelative:gui\\storemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89489811-D712-4813-AA3C-7A0F2038629A}|GUI\\GUI.csproj|E:\\DoAnCFC#\\DoAnC#\\gui\\controler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89489811-D712-4813-AA3C-7A0F2038629A}|GUI\\GUI.csproj|solutionrelative:gui\\controler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89489811-D712-4813-AA3C-7A0F2038629A}|GUI\\GUI.csproj|E:\\DoAnCFC#\\DoAnC#\\gui\\qlthetv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89489811-D712-4813-AA3C-7A0F2038629A}|GUI\\GUI.csproj|solutionrelative:gui\\qlthetv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C14696E-A28D-4BE2-A74E-F5FD19952699}|DAO\\DAO.csproj|E:\\DoAnCFC#\\DoAnC#\\dao\\chamcongdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C14696E-A28D-4BE2-A74E-F5FD19952699}|DAO\\DAO.csproj|solutionrelative:dao\\chamcongdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049B9F23-2836-48C5-8732-E751CF12E6CB}|BUS\\BUS.csproj|E:\\DoAnCFC#\\DoAnC#\\bus\\chamcongbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049B9F23-2836-48C5-8732-E751CF12E6CB}|BUS\\BUS.csproj|solutionrelative:bus\\chamcongbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049B9F23-2836-48C5-8732-E751CF12E6CB}|BUS\\BUS.csproj|E:\\DoAnCFC#\\DoAnC#\\bus\\billbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049B9F23-2836-48C5-8732-E751CF12E6CB}|BUS\\BUS.csproj|solutionrelative:bus\\billbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C14696E-A28D-4BE2-A74E-F5FD19952699}|DAO\\DAO.csproj|E:\\DoAnCFC#\\DoAnC#\\dao\\storemanegerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C14696E-A28D-4BE2-A74E-F5FD19952699}|DAO\\DAO.csproj|solutionrelative:dao\\storemanegerdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89489811-D712-4813-AA3C-7A0F2038629A}|GUI\\GUI.csproj|E:\\DoAnCFC#\\DoAnC#\\gui\\storemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89489811-D712-4813-AA3C-7A0F2038629A}|GUI\\GUI.csproj|solutionrelative:gui\\storemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049B9F23-2836-48C5-8732-E751CF12E6CB}|BUS\\BUS.csproj|E:\\DoAnCFC#\\DoAnC#\\bus\\storemanegerbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049B9F23-2836-48C5-8732-E751CF12E6CB}|BUS\\BUS.csproj|solutionrelative:bus\\storemanegerbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049B9F23-2836-48C5-8732-E751CF12E6CB}|BUS\\BUS.csproj|E:\\DoAnCFC#\\DoAnC#\\bus\\adminbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049B9F23-2836-48C5-8732-E751CF12E6CB}|BUS\\BUS.csproj|solutionrelative:bus\\adminbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1669B8D0-22AC-46C3-917E-E236E86EC096}|DTO\\DTO.csproj|E:\\DoAnCFC#\\DoAnC#\\dto\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1669B8D0-22AC-46C3-917E-E236E86EC096}|DTO\\DTO.csproj|solutionrelative:dto\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89489811-D712-4813-AA3C-7A0F2038629A}|GUI\\GUI.csproj|E:\\DoAnCFC#\\DoAnC#\\gui\\qlbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89489811-D712-4813-AA3C-7A0F2038629A}|GUI\\GUI.csproj|solutionrelative:gui\\qlbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89489811-D712-4813-AA3C-7A0F2038629A}|GUI\\GUI.csproj|E:\\DoAnCFC#\\DoAnC#\\gui\\qlchamcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89489811-D712-4813-AA3C-7A0F2038629A}|GUI\\GUI.csproj|solutionrelative:gui\\qlchamcong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C14696E-A28D-4BE2-A74E-F5FD19952699}|DAO\\DAO.csproj|E:\\DoAnCFC#\\DoAnC#\\dao\\sessionuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C14696E-A28D-4BE2-A74E-F5FD19952699}|DAO\\DAO.csproj|solutionrelative:dao\\sessionuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89489811-D712-4813-AA3C-7A0F2038629A}|GUI\\GUI.csproj|E:\\DoAnCFC#\\DoAnC#\\gui\\qlchitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89489811-D712-4813-AA3C-7A0F2038629A}|GUI\\GUI.csproj|solutionrelative:gui\\qlchitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89489811-D712-4813-AA3C-7A0F2038629A}|GUI\\GUI.csproj|E:\\DoAnCFC#\\DoAnC#\\gui\\qlban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89489811-D712-4813-AA3C-7A0F2038629A}|GUI\\GUI.csproj|solutionrelative:gui\\qlban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89489811-D712-4813-AA3C-7A0F2038629A}|GUI\\GUI.csproj|E:\\DoAnCFC#\\DoAnC#\\gui\\qlproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89489811-D712-4813-AA3C-7A0F2038629A}|GUI\\GUI.csproj|solutionrelative:gui\\qlproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89489811-D712-4813-AA3C-7A0F2038629A}|GUI\\GUI.csproj|E:\\DoAnCFC#\\DoAnC#\\gui\\qlnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{89489811-D712-4813-AA3C-7A0F2038629A}|GUI\\GUI.csproj|solutionrelative:gui\\qlnhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "E:\\DoAnCFC#\\DoAnC#\\GUI\\Admin.cs",
+              "RelativeDocumentMoniker": "GUI\\Admin.cs",
+              "ToolTip": "E:\\DoAnCFC#\\DoAnC#\\GUI\\Admin.cs",
+              "RelativeToolTip": "GUI\\Admin.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAcwGQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T09:57:09.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "E:\\DoAnCFC#\\DoAnC#\\GUI\\Bill.cs",
+              "RelativeDocumentMoniker": "GUI\\Bill.cs",
+              "ToolTip": "E:\\DoAnCFC#\\DoAnC#\\GUI\\Bill.cs",
+              "RelativeToolTip": "GUI\\Bill.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAIAwwFgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T07:01:59.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BillDAO.cs",
+              "DocumentMoniker": "E:\\DoAnCFC#\\DoAnC#\\DAO\\BillDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\BillDAO.cs",
+              "ToolTip": "E:\\DoAnCFC#\\DoAnC#\\DAO\\BillDAO.cs",
+              "RelativeToolTip": "DAO\\BillDAO.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADgv0wAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:11:56.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StoreManager.cs [Design]",
+              "DocumentMoniker": "E:\\DoAnCFC#\\DoAnC#\\GUI\\StoreManager.cs",
+              "RelativeDocumentMoniker": "GUI\\StoreManager.cs",
+              "ToolTip": "E:\\TriC#\\DoAnC#\\GUI\\StoreManager.cs [Design]",
+              "RelativeToolTip": "..\\..\\TriC#\\DoAnC#\\GUI\\StoreManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T12:19:10.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QLDoanhThu.cs [Design]",
+              "DocumentMoniker": "E:\\DoAnCFC#\\DoAnC#\\GUI\\QLDoanhThu.cs",
+              "RelativeDocumentMoniker": "GUI\\QLDoanhThu.cs",
+              "ToolTip": "E:\\DoAnCFC#\\DoAnC#\\GUI\\QLDoanhThu.cs [Design]",
+              "RelativeToolTip": "GUI\\QLDoanhThu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:23:39.683Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QLDoanhThu.cs",
+              "DocumentMoniker": "E:\\DoAnCFC#\\DoAnC#\\GUI\\QLDoanhThu.cs",
+              "RelativeDocumentMoniker": "GUI\\QLDoanhThu.cs",
+              "ToolTip": "E:\\DoAnCFC#\\DoAnC#\\GUI\\QLDoanhThu.cs",
+              "RelativeToolTip": "GUI\\QLDoanhThu.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwC4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:41:49.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThongKeBUS.cs",
+              "DocumentMoniker": "E:\\DoAnCFC#\\DoAnC#\\BUS\\ThongKeBUS.cs",
+              "RelativeDocumentMoniker": "BUS\\ThongKeBUS.cs",
+              "ToolTip": "E:\\DoAnCFC#\\DoAnC#\\BUS\\ThongKeBUS.cs",
+              "RelativeToolTip": "BUS\\ThongKeBUS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:56:36.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThongKeDAO.cs",
+              "DocumentMoniker": "E:\\DoAnCFC#\\DoAnC#\\DAO\\ThongKeDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\ThongKeDAO.cs",
+              "ToolTip": "E:\\DoAnCFC#\\DoAnC#\\DAO\\ThongKeDAO.cs",
+              "RelativeToolTip": "DAO\\ThongKeDAO.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAcwFIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:44:44.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QLBill.cs [Design]",
+              "DocumentMoniker": "E:\\DoAnCFC#\\DoAnC#\\GUI\\QLBill.cs",
+              "RelativeDocumentMoniker": "GUI\\QLBill.cs",
+              "ToolTip": "E:\\TriC#\\DoAnC#\\GUI\\QLBill.cs [Design]",
+              "RelativeToolTip": "..\\..\\TriC#\\DoAnC#\\GUI\\QLBill.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T05:56:12.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bill.cs [Design]",
+              "DocumentMoniker": "E:\\DoAnCFC#\\DoAnC#\\GUI\\Bill.cs",
+              "RelativeDocumentMoniker": "GUI\\Bill.cs",
+              "ToolTip": "E:\\DoAnCFC#\\DoAnC#\\GUI\\Bill.cs [Design]",
+              "RelativeToolTip": "GUI\\Bill.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T07:01:57.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Thongtin.cs [Design]",
+              "DocumentMoniker": "E:\\DoAnCFC#\\DoAnC#\\GUI\\Thongtin.cs",
+              "RelativeDocumentMoniker": "GUI\\Thongtin.cs",
+              "ToolTip": "E:\\TriC#\\DoAnC#\\GUI\\Thongtin.cs [Design]",
+              "RelativeToolTip": "..\\..\\TriC#\\DoAnC#\\GUI\\Thongtin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T02:07:36.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Admin.cs [Design]",
+              "DocumentMoniker": "E:\\DoAnCFC#\\DoAnC#\\GUI\\Admin.cs",
+              "RelativeDocumentMoniker": "GUI\\Admin.cs",
+              "ToolTip": "E:\\DoAnCFC#\\DoAnC#\\GUI\\Admin.cs [Design]",
+              "RelativeToolTip": "GUI\\Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T03:06:06.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "E:\\DoAnCFC#\\DoAnC#\\GUI\\Login.cs",
+              "RelativeDocumentMoniker": "GUI\\Login.cs",
+              "ToolTip": "E:\\DoAnCFC#\\DoAnC#\\GUI\\Login.cs [Design]",
+              "RelativeToolTip": "GUI\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T02:15:47.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Thongtin.cs",
+              "DocumentMoniker": "E:\\DoAnCFC#\\DoAnC#\\GUI\\Thongtin.cs",
+              "RelativeDocumentMoniker": "GUI\\Thongtin.cs",
+              "ToolTip": "E:\\DoAnCFC#\\DoAnC#\\GUI\\Thongtin.cs",
+              "RelativeToolTip": "GUI\\Thongtin.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T03:07:37.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Controler.cs [Design]",
+              "DocumentMoniker": "E:\\DoAnCFC#\\DoAnC#\\GUI\\Controler.cs",
+              "RelativeDocumentMoniker": "GUI\\Controler.cs",
+              "ToolTip": "E:\\TriC#\\DoAnC#\\GUI\\Controler.cs [Design]",
+              "RelativeToolTip": "..\\..\\TriC#\\DoAnC#\\GUI\\Controler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T03:04:33.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TheTV.cs [Design]",
+              "DocumentMoniker": "E:\\DoAnCFC#\\DoAnC#\\GUI\\TheTV.cs",
+              "RelativeDocumentMoniker": "GUI\\TheTV.cs",
+              "ToolTip": "E:\\TriC#\\DoAnC#\\GUI\\TheTV.cs [Design]",
+              "RelativeToolTip": "..\\..\\TriC#\\DoAnC#\\GUI\\TheTV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T02:02:47.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ChamCongBUS.cs",
+              "DocumentMoniker": "E:\\DoAnCFC#\\DoAnC#\\BUS\\ChamCongBUS.cs",
+              "RelativeDocumentMoniker": "BUS\\ChamCongBUS.cs",
+              "ToolTip": "E:\\DoAnCFC#\\DoAnC#\\BUS\\ChamCongBUS.cs",
+              "RelativeToolTip": "BUS\\ChamCongBUS.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:56:08.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BillBUS.cs",
+              "DocumentMoniker": "E:\\DoAnCFC#\\DoAnC#\\BUS\\BillBUS.cs",
+              "RelativeDocumentMoniker": "BUS\\BillBUS.cs",
+              "ToolTip": "E:\\DoAnCFC#\\DoAnC#\\BUS\\BillBUS.cs",
+              "RelativeToolTip": "BUS\\BillBUS.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwB4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:13:21.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "QLTheTV.cs [Design]",
+              "DocumentMoniker": "E:\\DoAnCFC#\\DoAnC#\\GUI\\QLTheTV.cs",
+              "RelativeDocumentMoniker": "GUI\\QLTheTV.cs",
+              "ToolTip": "E:\\TriC#\\DoAnC#\\GUI\\QLTheTV.cs [Design]",
+              "RelativeToolTip": "..\\..\\TriC#\\DoAnC#\\GUI\\QLTheTV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T05:56:06.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ChamCongDAO.cs",
+              "DocumentMoniker": "E:\\DoAnCFC#\\DoAnC#\\DAO\\ChamCongDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\ChamCongDAO.cs",
+              "ToolTip": "E:\\DoAnCFC#\\DoAnC#\\DAO\\ChamCongDAO.cs",
+              "RelativeToolTip": "DAO\\ChamCongDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T17:12:10.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StoreManager.cs",
+              "DocumentMoniker": "E:\\DoAnCFC#\\DoAnC#\\GUI\\StoreManager.cs",
+              "RelativeDocumentMoniker": "GUI\\StoreManager.cs",
+              "ToolTip": "E:\\DoAnCFC#\\DoAnC#\\GUI\\StoreManager.cs",
+              "RelativeToolTip": "GUI\\StoreManager.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAADgv9YAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T01:28:22.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StoreManegerBUS.cs",
+              "DocumentMoniker": "E:\\DoAnCFC#\\DoAnC#\\BUS\\StoreManegerBUS.cs",
+              "RelativeDocumentMoniker": "BUS\\StoreManegerBUS.cs",
+              "ToolTip": "E:\\DoAnCFC#\\DoAnC#\\BUS\\StoreManegerBUS.cs",
+              "RelativeToolTip": "BUS\\StoreManegerBUS.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAawEUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T02:00:17.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "QLBill.cs",
+              "DocumentMoniker": "E:\\DoAnCFC#\\DoAnC#\\GUI\\QLBill.cs",
+              "RelativeDocumentMoniker": "GUI\\QLBill.cs",
+              "ToolTip": "E:\\DoAnCFC#\\DoAnC#\\GUI\\QLBill.cs",
+              "RelativeToolTip": "GUI\\QLBill.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAASwBsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T05:59:57.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Session.cs",
+              "DocumentMoniker": "E:\\DoAnCFC#\\DoAnC#\\DTO\\Session.cs",
+              "RelativeDocumentMoniker": "DTO\\Session.cs",
+              "ToolTip": "E:\\DoAnCFC#\\DoAnC#\\DTO\\Session.cs",
+              "RelativeToolTip": "DTO\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:25:29.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StoreManegerDAO.cs",
+              "DocumentMoniker": "E:\\DoAnCFC#\\DoAnC#\\DAO\\StoreManegerDAO.cs",
+              "RelativeDocumentMoniker": "DAO\\StoreManegerDAO.cs",
+              "ToolTip": "E:\\DoAnCFC#\\DoAnC#\\DAO\\StoreManegerDAO.cs",
+              "RelativeToolTip": "DAO\\StoreManegerDAO.cs",
+              "ViewState": "AgIAANgBAAAAAAAAAAAawOkBAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T01:23:13.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdminBUS.cs",
+              "DocumentMoniker": "E:\\DoAnCFC#\\DoAnC#\\BUS\\AdminBUS.cs",
+              "RelativeDocumentMoniker": "BUS\\AdminBUS.cs",
+              "ToolTip": "E:\\DoAnCFC#\\DoAnC#\\BUS\\AdminBUS.cs",
+              "RelativeToolTip": "BUS\\AdminBUS.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T12:04:21.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "QLChiTietHoaDon.cs [Design]",
+              "DocumentMoniker": "E:\\DoAnCFC#\\DoAnC#\\GUI\\QLChiTietHoaDon.cs",
+              "RelativeDocumentMoniker": "GUI\\QLChiTietHoaDon.cs",
+              "ToolTip": "E:\\TriC#\\DoAnC#\\GUI\\QLChiTietHoaDon.cs [Design]",
+              "RelativeToolTip": "..\\..\\TriC#\\DoAnC#\\GUI\\QLChiTietHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T05:55:42.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SessionUser.cs",
+              "DocumentMoniker": "E:\\DoAnCFC#\\DoAnC#\\DAO\\SessionUser.cs",
+              "RelativeDocumentMoniker": "DAO\\SessionUser.cs",
+              "ToolTip": "E:\\DoAnCFC#\\DoAnC#\\DAO\\SessionUser.cs",
+              "RelativeToolTip": "DAO\\SessionUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:25:20.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "QLChamCong.cs",
+              "DocumentMoniker": "E:\\DoAnCFC#\\DoAnC#\\GUI\\QLChamCong.cs",
+              "RelativeDocumentMoniker": "GUI\\QLChamCong.cs",
+              "ToolTip": "E:\\DoAnCFC#\\DoAnC#\\GUI\\QLChamCong.cs",
+              "RelativeToolTip": "GUI\\QLChamCong.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAASwBoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T06:37:18.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "QLProducts.cs [Design]",
+              "DocumentMoniker": "E:\\DoAnCFC#\\DoAnC#\\GUI\\QLProducts.cs",
+              "RelativeDocumentMoniker": "GUI\\QLProducts.cs",
+              "ToolTip": "E:\\TriC#\\DoAnC#\\GUI\\QLProducts.cs [Design]",
+              "RelativeToolTip": "..\\..\\TriC#\\DoAnC#\\GUI\\QLProducts.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T05:55:59.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "QLBan.cs [Design]",
+              "DocumentMoniker": "E:\\DoAnCFC#\\DoAnC#\\GUI\\QLBan.cs",
+              "RelativeDocumentMoniker": "GUI\\QLBan.cs",
+              "ToolTip": "E:\\TriC#\\DoAnC#\\GUI\\QLBan.cs [Design]",
+              "RelativeToolTip": "..\\..\\TriC#\\DoAnC#\\GUI\\QLBan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T05:56:10.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "QLNhanVien.cs [Design]",
+              "DocumentMoniker": "E:\\DoAnCFC#\\DoAnC#\\GUI\\QLNhanVien.cs",
+              "RelativeDocumentMoniker": "GUI\\QLNhanVien.cs",
+              "ToolTip": "E:\\TriC#\\DoAnC#\\GUI\\QLNhanVien.cs [Design]",
+              "RelativeToolTip": "..\\..\\TriC#\\DoAnC#\\GUI\\QLNhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T05:56:01.082Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1312,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+E:\DoAn\DoAnC#\GUI\bin\Debug\GUI.exe.config
+E:\DoAn\DoAnC#\GUI\bin\Debug\GUI.exe
+E:\DoAn\DoAnC#\GUI\bin\Debug\GUI.pdb
+E:\DoAn\DoAnC#\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+E:\DoAn\DoAnC#\GUI\obj\Debug\GUI.Admin.resources
+E:\DoAn\DoAnC#\GUI\obj\Debug\GUI.Controler.resources
+E:\DoAn\DoAnC#\GUI\obj\Debug\GUI.Login.resources
+E:\DoAn\DoAnC#\GUI\obj\Debug\GUI.StoreManager.resources
+E:\DoAn\DoAnC#\GUI\obj\Debug\GUI.TheTV.resources
+E:\DoAn\DoAnC#\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\DoAn\DoAnC#\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\DoAn\DoAnC#\GUI\obj\Debug\GUI.exe
+E:\DoAn\DoAnC#\GUI\obj\Debug\GUI.pdb
+E:\DoAn\DoAnC#\GUI\bin\Debug\BUS.dll
+E:\DoAn\DoAnC#\GUI\bin\Debug\DTO.dll
+E:\DoAn\DoAnC#\GUI\bin\Debug\BUS.pdb
+E:\DoAn\DoAnC#\GUI\bin\Debug\DTO.pdb
+E:\DoAn\DoAnC#\GUI\obj\Debug\GUI.csproj.Up2Date
+E:\DoAn\DoAnC#\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\DoAn\DoAnC#\GUI\bin\Debug\DAO.dll
+E:\DoAn\DoAnC#\GUI\bin\Debug\DAO.pdb
+E:\DoAn\DoAnC#\GUI\obj\Debug\GUI.Thongtin.resources
+E:\DoAn_HTTT\DoAn\DoAnC#\GUI\bin\Debug\GUI.exe.config
+E:\DoAn_HTTT\DoAn\DoAnC#\GUI\bin\Debug\GUI.exe
+E:\DoAn_HTTT\DoAn\DoAnC#\GUI\bin\Debug\GUI.pdb
+E:\DoAn_HTTT\DoAn\DoAnC#\GUI\bin\Debug\BUS.dll
+E:\DoAn_HTTT\DoAn\DoAnC#\GUI\bin\Debug\DTO.dll
+E:\DoAn_HTTT\DoAn\DoAnC#\GUI\bin\Debug\DAO.dll
+E:\DoAn_HTTT\DoAn\DoAnC#\GUI\bin\Debug\BUS.pdb
+E:\DoAn_HTTT\DoAn\DoAnC#\GUI\bin\Debug\DTO.pdb
+E:\DoAn_HTTT\DoAn\DoAnC#\GUI\bin\Debug\DAO.pdb
+E:\DoAn_HTTT\DoAn\DoAnC#\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+E:\DoAn_HTTT\DoAn\DoAnC#\GUI\obj\Debug\GUI.Admin.resources
+E:\DoAn_HTTT\DoAn\DoAnC#\GUI\obj\Debug\GUI.Controler.resources
+E:\DoAn_HTTT\DoAn\DoAnC#\GUI\obj\Debug\GUI.Login.resources
+E:\DoAn_HTTT\DoAn\DoAnC#\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\DoAn_HTTT\DoAn\DoAnC#\GUI\obj\Debug\GUI.StoreManager.resources
+E:\DoAn_HTTT\DoAn\DoAnC#\GUI\obj\Debug\GUI.TheTV.resources
+E:\DoAn_HTTT\DoAn\DoAnC#\GUI\obj\Debug\GUI.Thongtin.resources
+E:\DoAn_HTTT\DoAn\DoAnC#\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\DoAn_HTTT\DoAn\DoAnC#\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\DoAn_HTTT\DoAn\DoAnC#\GUI\obj\Debug\GUI.csproj.Up2Date
+E:\DoAn_HTTT\DoAn\DoAnC#\GUI\obj\Debug\GUI.exe
+E:\DoAn_HTTT\DoAn\DoAnC#\GUI\obj\Debug\GUI.pdb
+E:\DoAn_HTTT\DoAn\DoAnC#\GUI\obj\Debug\GUI.QLAdmin.resources
+E:\DoAn_HTTT\DoAn\DoAnC#\GUI\obj\Debug\GUI.QLProducts.resources
+E:\DoAn_HTTT\DoAn\DoAnC#\GUI\obj\Debug\GUI.Bill.resources
+E:\DoAn\DoAnC#\GUI\obj\Debug\GUI.Bill.resources
+E:\DoAn\DoAnC#\GUI\obj\Debug\GUI.QLBan.resources
+E:\DoAn\DoAnC#\GUI\obj\Debug\GUI.QLBill.resources
+E:\DoAn\DoAnC#\GUI\obj\Debug\GUI.QLChamCong.resources
+E:\DoAn\DoAnC#\GUI\obj\Debug\GUI.QLChiTietHoaDon.resources
+E:\DoAn\DoAnC#\GUI\obj\Debug\GUI.QLLoaiSP.resources
+E:\DoAn\DoAnC#\GUI\obj\Debug\GUI.QLNhanVien.resources
+E:\DoAn\DoAnC#\GUI\obj\Debug\GUI.QLProducts.resources
+E:\DoAn\DoAnC#\GUI\obj\Debug\GUI.QLTheTV.resources
+D:\BT C#\DoAnC#\GUI\bin\Debug\GUI.exe.config
+D:\BT C#\DoAnC#\GUI\bin\Debug\GUI.exe
+D:\BT C#\DoAnC#\GUI\bin\Debug\GUI.pdb
+D:\BT C#\DoAnC#\GUI\bin\Debug\BUS.dll
+D:\BT C#\DoAnC#\GUI\bin\Debug\DTO.dll
+D:\BT C#\DoAnC#\GUI\bin\Debug\DAO.dll
+D:\BT C#\DoAnC#\GUI\bin\Debug\BUS.pdb
+D:\BT C#\DoAnC#\GUI\bin\Debug\DTO.pdb
+D:\BT C#\DoAnC#\GUI\bin\Debug\DAO.pdb
+D:\BT C#\DoAnC#\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\BT C#\DoAnC#\GUI\obj\Debug\GUI.Admin.resources
+D:\BT C#\DoAnC#\GUI\obj\Debug\GUI.Bill.resources
+D:\BT C#\DoAnC#\GUI\obj\Debug\GUI.Controler.resources
+D:\BT C#\DoAnC#\GUI\obj\Debug\GUI.Login.resources
+D:\BT C#\DoAnC#\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\BT C#\DoAnC#\GUI\obj\Debug\GUI.QLBan.resources
+D:\BT C#\DoAnC#\GUI\obj\Debug\GUI.QLBill.resources
+D:\BT C#\DoAnC#\GUI\obj\Debug\GUI.QLChamCong.resources
+D:\BT C#\DoAnC#\GUI\obj\Debug\GUI.QLChiTietHoaDon.resources
+D:\BT C#\DoAnC#\GUI\obj\Debug\GUI.QLLoaiSP.resources
+D:\BT C#\DoAnC#\GUI\obj\Debug\GUI.QLNhanVien.resources
+D:\BT C#\DoAnC#\GUI\obj\Debug\GUI.QLProducts.resources
+D:\BT C#\DoAnC#\GUI\obj\Debug\GUI.QLTheTV.resources
+D:\BT C#\DoAnC#\GUI\obj\Debug\GUI.StoreManager.resources
+D:\BT C#\DoAnC#\GUI\obj\Debug\GUI.TheTV.resources
+D:\BT C#\DoAnC#\GUI\obj\Debug\GUI.Thongtin.resources
+D:\BT C#\DoAnC#\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\BT C#\DoAnC#\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\BT C#\DoAnC#\GUI\obj\Debug\GUI.csproj.Up2Date
+D:\BT C#\DoAnC#\GUI\obj\Debug\GUI.exe
+D:\BT C#\DoAnC#\GUI\obj\Debug\GUI.pdb
+E:\TriC#\DoAnC#\GUI\bin\Debug\GUI.exe.config
+E:\TriC#\DoAnC#\GUI\bin\Debug\GUI.exe
+E:\TriC#\DoAnC#\GUI\bin\Debug\GUI.pdb
+E:\TriC#\DoAnC#\GUI\bin\Debug\BUS.dll
+E:\TriC#\DoAnC#\GUI\bin\Debug\DTO.dll
+E:\TriC#\DoAnC#\GUI\bin\Debug\DAO.dll
+E:\TriC#\DoAnC#\GUI\bin\Debug\BUS.pdb
+E:\TriC#\DoAnC#\GUI\bin\Debug\DTO.pdb
+E:\TriC#\DoAnC#\GUI\bin\Debug\DAO.pdb
+E:\TriC#\DoAnC#\GUI\obj\Debug\GUI.csproj.AssemblyReference.cache
+E:\TriC#\DoAnC#\GUI\obj\Debug\GUI.Admin.resources
+E:\TriC#\DoAnC#\GUI\obj\Debug\GUI.Bill.resources
+E:\TriC#\DoAnC#\GUI\obj\Debug\GUI.Controler.resources
+E:\TriC#\DoAnC#\GUI\obj\Debug\GUI.Login.resources
+E:\TriC#\DoAnC#\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\TriC#\DoAnC#\GUI\obj\Debug\GUI.QLBan.resources
+E:\TriC#\DoAnC#\GUI\obj\Debug\GUI.QLBill.resources
+E:\TriC#\DoAnC#\GUI\obj\Debug\GUI.QLChamCong.resources
+E:\TriC#\DoAnC#\GUI\obj\Debug\GUI.QLChiTietHoaDon.resources
+E:\TriC#\DoAnC#\GUI\obj\Debug\GUI.QLLoaiSP.resources
+E:\TriC#\DoAnC#\GUI\obj\Debug\GUI.QLNhanVien.resources
+E:\TriC#\DoAnC#\GUI\obj\Debug\GUI.QLProducts.resources
+E:\TriC#\DoAnC#\GUI\obj\Debug\GUI.QLTheTV.resources
+E:\TriC#\DoAnC#\GUI\obj\Debug\GUI.StoreManager.resources
+E:\TriC#\DoAnC#\GUI\obj\Debug\GUI.TheTV.resources
+E:\TriC#\DoAnC#\GUI\obj\Debug\GUI.Thongtin.resources
+E:\TriC#\DoAnC#\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\TriC#\DoAnC#\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\TriC#\DoAnC#\GUI\obj\Debug\GUI.csproj.Up2Date
+E:\TriC#\DoAnC#\GUI\obj\Debug\GUI.exe
+E:\TriC#\DoAnC#\GUI\obj\Debug\GUI.pdb
+E:\TriC#\DoAnC#\GUI\obj\Debug\GUI.QLDoanhThu.resources
